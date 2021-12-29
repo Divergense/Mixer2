@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Just Mix It!</string>
+    <string name="greetings_text">Калькулятор смеси растворов</string>
+    <string name="hint_concentration1">%</string>
+    <string name="hint_concentration2">%</string>
+    <string name="hint_target_concentration">%</string>
+    <string name="hint_target_volume">мл</string>
+    <string name="label_concentration1">Концентрация 1-го раствора:</string>
+    <string name="label_concentration2">Концентрация 2-го раствора:</string>
+    <string name="label_target_concentration">Концентрация смеси растворов:</string>
+    <string name="label_target_volume">Объём итоговой смеси:</string>
+    <string name="calc_volume_text">Получить результат</string>
+</resources>
